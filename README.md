@@ -107,3 +107,26 @@ Mais de quarenta anos após sua introdução, tanto a lei original quanto sua re
 The text emphasizes that the **reverse of Conway's Law** is also valid and particularly relevant for microservices ecosystems: a company's organizational structure is determined by its product's architecture.
 
 Over forty years after its introduction, both the original law and its reverse remain valid. This is evident in major tech companies like Microsoft, Google, and Amazon, whose organizational structures resemble their product architectures. Companies adopting microservices architecture are no exception to this rule.
+
+
+# Resumo: Microsserviços, Lei de Conway Reversa e Estrutura Organizacional
+
+## Português
+
+A arquitetura de microsserviços é caracterizada por muitos serviços pequenos, independentes e isolados. A **Lei de Conway Reversa** implica que qualquer empresa que adote essa arquitetura deve ter uma estrutura organizacional composta por equipes pequenas, isoladas e independentes.
+
+Essa estrutura de equipe, embora leve a um ecossistema de microsserviços mais sofisticado e eficiente, também pode resultar em fenômenos de segregação e dispersão.
+
+Para os desenvolvedores, a Lei de Conway Reversa significa que eles se tornarão, de certa forma, como os microsserviços que criam: serão capazes de executar tarefas específicas muito bem, mas estarão isolados em termos de responsabilidade, conhecimento de domínio e experiência. Coletivamente, os desenvolvedores de um ecossistema de microsserviços possuem o conhecimento completo, mas individualmente são altamente especializados em suas áreas de responsabilidade.
+
+## English
+
+# Summary: Microservices, Reverse Conway's Law, and Organizational Structure
+
+## English
+
+Microservices architecture is characterized by numerous small, independent, and isolated services. **Reverse Conway's Law** implies that any company adopting this architecture must have an organizational structure composed of small, isolated, and independent teams.
+
+While this team structure leads to a more sophisticated and efficient microservices ecosystem, it can also result in phenomena of segregation and dispersion.
+
+For developers, Reverse Conway's Law means they will, in many aspects, become like the microservices they build: they will be able to perform specific tasks very well but will be isolated in terms of responsibility, domain knowledge, and experience. Collectively, developers within a microservices ecosystem will possess complete knowledge, but individually they will be highly specialized in their areas of responsibility.
